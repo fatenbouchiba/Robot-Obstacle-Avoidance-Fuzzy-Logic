@@ -1,0 +1,4 @@
+numpy
+skfuzzy
+opencv-python
+pop
